@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297309007019",
+    "project_id": "bookumbrella-3b3fe",
+    "storage_bucket": "bookumbrella-3b3fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297309007019:android:ac3109921aa7c2b56b5bee",
+        "android_client_info": {
+          "package_name": "com.example.book_umbrella_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297309007019-c2g4rbht00mlrd33kunhss4gj7b5919r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL4vSuzvwkXNVHKpTskXF25ZMxFWztRqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297309007019-c2g4rbht00mlrd33kunhss4gj7b5919r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bookumbrella</string>
+    <string name="facebook_app_id">689596972871538</string>
+    <string name="fb_login_protocol_scheme">fb689596972871538</string>
+    <string name="facebook_client_token">654a2cadfbf2f5301eea373cf3209b73</string>
+</resources>
