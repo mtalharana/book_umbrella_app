@@ -1,7 +1,8 @@
+// ignore_for_file: unnecessary_import, implementation_imports, unused_import
+
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/container.dart';
 import 'package:flutter/src/widgets/framework.dart';
-
 
 class ContactUsScreen extends StatelessWidget {
   const ContactUsScreen({super.key});
@@ -26,9 +27,10 @@ class ContactUsScreen extends StatelessWidget {
         ),
         title: Padding(
           padding: const EdgeInsets.only(bottom: 50, left: 10),
-          child: Text('Contact Us',style: TextStyle(
-            fontWeight: FontWeight.bold
-          ),),
+          child: Text(
+            'Contact Us',
+            style: TextStyle(fontWeight: FontWeight.bold),
+          ),
         ),
       ),
     );
